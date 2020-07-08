@@ -1,8 +1,7 @@
-# Alzheimer’s Prediction – A Machine Learning Model Comparison
+## Alzheimer’s Prediction – A Machine Learning Model Comparison
 
-## Rudy Tewelde
-
-## DSC 522 – Machine Learning II
+#### Rudy Tewelde
+##### DSC 522 – Machine Learning II
 
 # Introduction
 
@@ -17,11 +16,11 @@ The aim is to develop sound models that may help clinicians catch Alzheimer’s 
 
 The data was obtained from the Open Access Series of Imaging Studies (OASIS). OASIS is a project aimed at making MRI data sets of the brain freely available to the scientific community. OASIS is comprised of two data sets, one of longitudinal MRI Data and one of cross-sectional MRI data. These data sets are used in training multiple machine learning models to identify patients with mild to moderate dementia. Because Alzheimer’s is the most common cause of dementia, these data sets are chosen.  
 
-* Cross-sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults: *
+* Cross-sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults: 
 
 This set consists of a cross-sectional collection of 416 subjects aged 18 to 96. For each subject, 3 or 4 individual T1-weighted MRI scans obtained in single scan sessions are included. The subjects are all right-handed and include both men and women. One hundred of the included subjects over the age of 60 have been clinically diagnosed with very mild to moderate Alzheimer’s disease. Additionally, a reliability data set includes 20 non-demented subjects imaged on a subsequent visit within 90 days of their initial session.
 
-*Longitudinal MRI Data in Nondemented and Demented Older Adults:*
+* Longitudinal MRI Data in Nondemented and Demented Older Adults:
 
 This set consists of a longitudinal collection of 150 subjects aged 60 to 96. Each subject was scanned on two or more visits, separated by at least one year for a total of 373 imaging sessions. For each subject, 3 or 4 individual T1-weighted MRI scans obtained in single scan sessions are included. The subjects are all right-handed and include both men and women. Seventy-two of the subjects were characterized as non-demented throughout the study. Sixty-four of the included subjects were characterized as demented at the time of their initial visits and remained so for subsequent scans, including 51 individuals with mild to moderate Alzheimer’s disease. Another 14 subjects were characterized as non-demented at the time of their initial visit and were subsequently characterized as demented at a later visit.
 
