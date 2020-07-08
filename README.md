@@ -1,5 +1,6 @@
 # Alzheimers
 Alzheimer’s Prediction – A Machine Learning Model Comparison
+<<<<<<< HEAD
 Rudy Tewelde
 DSC 522 – Machine Learning II
 
@@ -28,5 +29,7 @@ The participants in both studies include young, middle-aged, and older adults, b
 
 
 
+=======
+>>>>>>> c4bd0b47a2c1b5e25293f0b8f6759c1d17ad1bb4
 
 ![Image](https://github.com/meronrudy/Alzheimers/blob/master/img/1.png)
